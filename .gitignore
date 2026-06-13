@@ -1,0 +1,7 @@
+# Environment and agent directories
+.agents/
+.venv/
+
+# Workspace-specific folders and files
+arena-tatica/
+ORIGINAL_REQUEST.md
